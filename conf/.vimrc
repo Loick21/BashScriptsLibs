@@ -1,0 +1,1 @@
+/home/zunix/.vimrc
